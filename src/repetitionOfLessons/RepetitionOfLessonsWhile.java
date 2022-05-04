@@ -1,6 +1,6 @@
 package repetitionOfLessons;
 
-public class reprtitionOfLessonsWhile {
+public class RepetitionOfLessonsWhile {
     public static void main(String[] args) {
         int sum = 0;
         int count = 1;

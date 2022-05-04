@@ -1,6 +1,6 @@
 package repetitionOfLessons;
 
-public class repetitionsOfLessonsArray {
+public class RepetitionsOfLessonsArray {
     public static void main(String[] args) {
         int[] first = new int[900];
         for (int i = 0; i < first.length; i++) {

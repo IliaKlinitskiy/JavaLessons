@@ -8,7 +8,7 @@ public class MainHuman {
         Human father = new Human();
         Human mather = new Human();
         Human sister = new Human();
-        Human brather = new Human();
+        Human brother = new Human();
         politolog.age = 21;
         politolog.weihgt = 91;
         politolog.name = "Ilia";
@@ -21,10 +21,10 @@ public class MainHuman {
         sister.age = 24;
         sister.weihgt = 52;
         sister.name = "Alexandra";
-        brather.age = 29;
-        brather.weihgt = 75;
-        brather.name = "Sergey";
-        int middleWeight = (politolog.weihgt + father.weihgt + mather.weihgt + sister.weihgt + brather.weihgt) / 5;
+        brother.age = 29;
+        brother.weihgt = 75;
+        brother.name = "Sergey";
+        int middleWeight = (politolog.weihgt + father.weihgt + mather.weihgt + sister.weihgt + brother.weihgt) / 5;
         System.out.println("Средний вес рассматриваемых людей = " + middleWeight);
     }
 }

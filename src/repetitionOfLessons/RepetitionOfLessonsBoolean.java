@@ -1,6 +1,6 @@
 package repetitionOfLessons;
 
-public class repetitionOfLessonsBoolean {
+public class RepetitionOfLessonsBoolean {
     public static void main(String[] args) {
         int time = 20;
         boolean goodWeather = true;
