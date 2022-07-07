@@ -1,4 +1,4 @@
-package homeWorkDesigner;
+package homeWorkConstructor;
 
 public class Worker {
     String name;
