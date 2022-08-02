@@ -24,7 +24,7 @@ public class Monster {
         this.hands = hands;
         this.legs = legs;
     }
-    void voice () {
+     void voice () {
         System.out.println("Голос");
     }
     void voice (int n) {
