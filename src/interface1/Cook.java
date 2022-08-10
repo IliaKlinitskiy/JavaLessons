@@ -11,7 +11,7 @@ public class Cook extends Worker implements AbleToCook{
     }
 
     @Override
-    public void prepare() {
+    public void cook() {
         System.out.println("Готовлю еду");
 
     }

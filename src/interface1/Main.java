@@ -41,7 +41,7 @@ public class Main {
         cook.add((AbleToCook)worker5);
         cook.add((AbleToCook)worker6);
         for (AbleToCook cooks : cook) {
-            cooks.prepare();
+            cooks.cook();
         }
         ArrayList<AbleToDrive> driver = new ArrayList<>();
         driver.add((AbleToDrive) worker7);
