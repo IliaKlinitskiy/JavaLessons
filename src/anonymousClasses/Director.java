@@ -1,4 +1,4 @@
-package AnonymousClasses;
+package anonymousClasses;
 
 public class Director{
     public void force(Counter counter, int i) {
