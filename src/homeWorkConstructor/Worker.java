@@ -4,6 +4,9 @@ public class Worker {
     String name;
     String post;
     int salary;
+     String test() {
+         return "git in UI";
+     }
 
     public Worker(String name, String post, int salary) {
         this.name = name;
